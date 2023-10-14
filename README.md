@@ -1,10 +1,11 @@
 # NOVA-CRACK
 **BD FACEBOOK CLONING TOOL.**
 
-[![Author](https://img.shields.io/badge/Author-JIHADUL--ISLAM-blue)](https://github.com/htr-tech)
+[![Author](https://img.shields.io/badge/Author-JIHADUL--ISLAM-blue)](https://github.com/TEAM-ACUMENOVA)
 [![Language](https://img.shields.io/badge/Written%20in-python-blue)](#)
+[![Author](https://img.shields.io/badge/Facebook-JIHADUL--ISLAM-blue)](https://www.facebook.com/jihadul991/)
 ### Supported Phone:
-32bit and 64bit
+32bit and 64bit Supported
 ### Installation :
 
 ```bash
